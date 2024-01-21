@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Beacon-creator
-- 👀 I’m interested in tech and it's science.
+- 👀 I’m interested in tech
 - 🌱 I’m into software development and data analysis
 - 💞️ I’m looking to collaborate on mobile/Web app development, desktop development and data analysis project.
 - 📫 You can reach me via IG = @b_e_acon
