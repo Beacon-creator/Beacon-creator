@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Beacon-creator
-- 👀 I’m love tech
+- 👋 Hi, I’m Olubukola Adebiyi
+- 👀 I love coding
 - 🌱 I’m into software development and data analysis
 - 💞️ I’m looking to collaborate on mobile/Web app development, desktop development and data analysis project.
-- 📫 You can reach me via IG = @b_e_acon
+- 📫 You can reach me via IG = @b_e_acon and https://fanalera.vercel.app/
 
 <!---
 Beacon-creator/Beacon-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
