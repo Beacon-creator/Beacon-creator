@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 👀 I love coding
-- 🌱 I’m into software development and data analysis
+- 👀 I love coding and researching
+- 🌱 I’m into software development and data engineering
 - 💞️ I’m looking to collaborate on mobile/Web app development, desktop development and data engineering project.
 - 📫 You can reach me via https://fanalera.vercel.app/
